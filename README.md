@@ -31,7 +31,7 @@
 
 
 <details>
-  <summary>Client</summary>
+  <summary>React</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
@@ -112,8 +112,6 @@ To run the project, execute the following command:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Newton Alumasa**
 
